@@ -1,6 +1,8 @@
 Dear new user,
 
-Hopefully the rom package will help grasping the basics of Reduced Order Modelling in regards to feul burnup anlysis in nuclear energy.
+Hopefully the rom package will help grasping the basics of Reduced Order Modelling in regards to feul burnup anlysis in nuclear energy. The repo accompanies https://github.com/Jonacool/Harnessing-Reduced-Order-Models-for-Efficient-Burnup-Calculations---Scripts-and-Data.
+
+Installing is done with pip install . in the folder where you have downloaded the files.
 
 Central to the package is the DecayChain object (called so for historical reasons). The DecayChain object accepts any kind of decay array, initial condition and all the other parameters that are needed to do a burnup analysis. 
 
