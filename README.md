@@ -14,4 +14,3 @@ All of the functions have descriptions. Sometimes comments are added to point ou
 
 All the best,
 Jonathan Pilgram
-jonathanpilgram@gmail.com
