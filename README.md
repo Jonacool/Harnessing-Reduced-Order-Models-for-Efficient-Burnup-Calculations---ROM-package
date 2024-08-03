@@ -1,6 +1,8 @@
 Dear new user,
 
-Hopefully the rom package will help grasping the basics of Reduced Order Modelling in regards to feul burnup anlysis in nuclear energy. The repo accompanies https://github.com/Jonacool/Harnessing-Reduced-Order-Models-for-Efficient-Burnup-Calculations---Scripts-and-Data.
+This is a package written during my thesis on Harnessing Reduced Order Models for Efficient Burnup Calculations.
+
+Hopefully the rom package will help grasping the basics of Reduced Order Modelling in regards to feul burnup anlysis in nuclear energy. The repo accompanies https://github.com/Jonacool/BurnupROM-ScriptsAndData.
 
 Installing is done with pip install . in the folder where you have downloaded the files.
 
